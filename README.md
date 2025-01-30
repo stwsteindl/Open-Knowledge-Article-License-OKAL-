@@ -15,7 +15,7 @@ The **Free & Open Article License (FOAL)** is a license designed to ensure that 
 ## License Terms
 
 The full license text can be found here:  
-➡️ https://github.com/stwsteindl/Open-Knowledge-Article-License-OKAL-/tree/main
+➡️ [https://github.com/stwsteindl/Open-Knowledge-Article-License-OKAL-/tree/main](https://github.com/stwsteindl/Open-Knowledge-Article-License-OKAL-/blob/main/Open%20Knowledge%20Article%20License%20(OKAL))
 
 ## How to Use FOAL
 
